@@ -1,0 +1,1 @@
+Scrape The News Homework assignment for University of Miami Coding Bootcamp
